@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=none&color=E86B54&height=220&section=header&text=Hi%20there👋%20I'm%20OwO1802%20😊😊&fontColor=54D1E8&fontSize=50&&fontAlignY=38&animation=fadeIn)
+# Hi, I'm YeongYeon
 
 <!-- type : wave, egg, shark, slice, soft, rounded -->
 <!-- color : auto, Hex, gradation, preset : timeAuto, timeGradient, random, gradient -->
