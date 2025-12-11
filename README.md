@@ -30,6 +30,10 @@ ESTsoft 11기 프론트엔드 개발자 부트캠프
 | 정규교과 2 | JavaScript 프로그래밍, JavaScript 코딩테스트, SAAS, HTML/HTTPS, Jquery | 📌학습 예정 |
 | 정규교과 3 | React.js, TDD, 웹팩, GitHub중급, React.js/TypeScript, Firebase | 📌학습 예정 |
 
+## 📫 Contact
+
+* 📩Email : aktld101@naver.com
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=E8B554&height=118&section=footer&animation=fadeIn)
 
 <!--
